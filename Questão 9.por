@@ -1,4 +1,4 @@
-// Questão 8
+// QuestÃ£o 9
 // 03/05/2024
 // Autor : Marcelo (SelinZ) Angelo
 programa {
@@ -12,13 +12,13 @@ faca
 			limpa()
 			escreva("Escolha O Ano Que Deseja Mtricular Tecle Zero Para Encerrar (Qualquer numero diferente encerra a matricula)\n\n")
 			
-			escreva("  1 ->  6° ANO FUNDAMENTAL 2\n")
-			escreva("  2 ->  7° ANO FUNDAMENTAL 2\n")
-			escreva("  3 ->  8° ANO FUNDAMENTAL 2\n")
-			escreva("  4 ->  9° ANO FUNDAMENTAL 2\n")
-			escreva("  5 ->  1° ANO ENSINO MÉDIO\n")
-			escreva("  6 ->  2° ANO ENSINO MÉDIO\n")
-			escreva("  7 ->  3° ANO ENSINO MÉDIO\n")
+			escreva("  1 ->  6Â° ANO FUNDAMENTAL 2\n")
+			escreva("  2 ->  7Â° ANO FUNDAMENTAL 2\n")
+			escreva("  3 ->  8Â° ANO FUNDAMENTAL 2\n")
+			escreva("  4 ->  9Â° ANO FUNDAMENTAL 2\n")
+			escreva("  5 ->  1Â° ANO ENSINO MÃ‰DIO\n")
+			escreva("  6 ->  2Â° ANO ENSINO MÃ‰DIO\n")
+			escreva("  7 ->  3Â° ANO ENSINO MÃ‰DIO\n")
 		
 			escreva("Digite o numero do ano: ")
 			
@@ -75,13 +75,13 @@ faca
       escreva ("---------------------------------------------------\n")
 
       escreva("Total de matriculas: ", total_matricula, "\n\n")
-			escreva("6° ANO FUNDAMENTAL 2: ", ano_6, "\n" )
-			escreva("7° ANO FUNDAMENTAL 2: ", ano_7, "\n" )
-			escreva("8° ANO FUNDAMENTAL 2: ", ano_8, "\n")
-			escreva("9° ANO FUNDAMENTAL 2: ", ano_9, "\n")
-      escreva("1° ANO ENSINO MÉDIO: ", medio_1, "\n")
-      escreva("2° ANO ENSINO MÉDIO: ", medio_2, "\n")
-      escreva("3° ANO ENSINO MÉDIO: ", medio_3, "\n")
+			escreva("6Â° ANO FUNDAMENTAL 2: ", ano_6, "\n" )
+			escreva("7Â° ANO FUNDAMENTAL 2: ", ano_7, "\n" )
+			escreva("8Â° ANO FUNDAMENTAL 2: ", ano_8, "\n")
+			escreva("9Â° ANO FUNDAMENTAL 2: ", ano_9, "\n")
+      escreva("1Â° ANO ENSINO MÃ‰DIO: ", medio_1, "\n")
+      escreva("2Â° ANO ENSINO MÃ‰DIO: ", medio_2, "\n")
+      escreva("3Â° ANO ENSINO MÃ‰DIO: ", medio_3, "\n")
   }
   
   }
